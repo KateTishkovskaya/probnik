@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="probnic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/probnic_jar</output-path>
+    <root id="archive" name="probnic.jar">
+      <element id="module-output" name="probnic" />
+    </root>
+  </artifact>
+</component>
